@@ -1,0 +1,11 @@
+
+Coffee was added to the machine in the amount of 800.0
+Water was added to the machine in the amount of 800.0
+A cup of coffee was made
+A cup of coffee was made
+A cup of coffee was made
+the beans consumption is 14.0 gram and 60 ml of water 
+A cup of coffee was made
+the beans consumption is 7.0 gram and 170 ml of water 
+A cup of coffee was made
+the beans consumption is 7.0 gram and 170 ml of water 
